@@ -1,9 +1,4 @@
 /*	
-	name: Danlan Chen
-	ID: 29920965
-	start date:	Oct.10th
-	last modified date: Oct.25th
-	
 	This program is supposed to run the current process. 
 	Then a new process enters, judge which process bewteen current one and new one is more urgent.
 	When each process enters, it compares the difference between the current time plus the service time and the end time,
