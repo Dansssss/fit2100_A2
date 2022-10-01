@@ -1,9 +1,5 @@
 /*	
-	name: Danlan Chen
-	ID: 29920965
-	start date:	Oct.10th
-	last modified date: Oct.25th
-	
+
 	This program implement the First Come First Serve algorithm. 
 	It reads the file then stores in the process control block.
 	Sort them according to the entry time. 
