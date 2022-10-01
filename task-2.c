@@ -1,9 +1,4 @@
 /*	
-	name: Danlan Chen
-	ID: 29920965
-	start date:	Oct.10th
-	last modified date: Oct.25th
-	
 	This program implement the Round-Robin algorithm with the quantum as 2 seconds.
 	Each process runs for 2 seconds and the next process runs. This runs round and round and round.
 	While running, check whether there is new process entering.
